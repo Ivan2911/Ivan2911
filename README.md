@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ivandros
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Natural Language Processing 
-- 💞️ I’m looking to collaborate on Data Science Project For the real Impact for People
+- 💞️ I’m looking to collaborate on Data Science Projects that have the real impacts for People
 
 
 <!---
